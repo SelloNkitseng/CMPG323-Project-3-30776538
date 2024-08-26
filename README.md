@@ -19,3 +19,5 @@ Transferred all data access operations from the Client Controller to the Client 
 Implemented the use of the Project Repository within the Project Controller, replacing the direct data access operations with repository calls.
 Implemented the use of the Client Repository within the Client Controller, ensuring that all data operations are now handled through the repository pattern.
 These changes enhance the application's structure, making it more modular, testable, and easier to maintain.
+
+reference list: https://github.com/SelloNkitseng/CMPG323-Project-3-30776538/blob/main/Reference%20list%20document.docx  
