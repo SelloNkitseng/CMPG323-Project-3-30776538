@@ -1,6 +1,7 @@
 # CMPG323-Project-3-30776538
 
 Project Overview
+
 In this project, I enhanced and improved an existing web application by implementing architectural patterns and adhering to coding principles. The primary focus was on restructuring the application to promote better separation of concerns and improve maintainability.
 
 Repository Pattern Implementation:
